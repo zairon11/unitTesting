@@ -1,0 +1,48 @@
+C:\Users\Sergio\Desktop\c#\Projects\BotcampBackendJazani2023\Jazani.Domain\bin\Debug\net7.0\Jazani.Domain.deps.json
+C:\Users\Sergio\Desktop\c#\Projects\BotcampBackendJazani2023\Jazani.Domain\bin\Debug\net7.0\Jazani.Domain.dll
+C:\Users\Sergio\Desktop\c#\Projects\BotcampBackendJazani2023\Jazani.Domain\bin\Debug\net7.0\Jazani.Domain.pdb
+C:\Users\Sergio\Desktop\c#\Projects\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\c#\Projects\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\c#\Projects\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\c#\Projects\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\c#\Projects\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\c#\Projects\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.dll
+C:\Users\Sergio\Desktop\c#\Projects\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\refint\Jazani.Domain.dll
+C:\Users\Sergio\Desktop\c#\Projects\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.pdb
+C:\Users\Sergio\Desktop\c#\Projects\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\ref\Jazani.Domain.dll
+C:\Users\Sergio\Desktop\c#\proyectos\BotcampBackendJazani2023\Jazani.Domain\bin\Debug\net7.0\Jazani.Domain.deps.json
+C:\Users\Sergio\Desktop\c#\proyectos\BotcampBackendJazani2023\Jazani.Domain\bin\Debug\net7.0\Jazani.Domain.dll
+C:\Users\Sergio\Desktop\c#\proyectos\BotcampBackendJazani2023\Jazani.Domain\bin\Debug\net7.0\Jazani.Domain.pdb
+C:\Users\Sergio\Desktop\c#\proyectos\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\c#\proyectos\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\c#\proyectos\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\c#\proyectos\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\c#\proyectos\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\c#\proyectos\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.dll
+C:\Users\Sergio\Desktop\c#\proyectos\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\refint\Jazani.Domain.dll
+C:\Users\Sergio\Desktop\c#\proyectos\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.pdb
+C:\Users\Sergio\Desktop\c#\proyectos\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\ref\Jazani.Domain.dll
+C:\Users\Sergio\Desktop\COURSE INGLES\BotcampBackendJazani2023\Jazani.Domain\bin\Debug\net7.0\Jazani.Domain.deps.json
+C:\Users\Sergio\Desktop\COURSE INGLES\BotcampBackendJazani2023\Jazani.Domain\bin\Debug\net7.0\Jazani.Domain.dll
+C:\Users\Sergio\Desktop\COURSE INGLES\BotcampBackendJazani2023\Jazani.Domain\bin\Debug\net7.0\Jazani.Domain.pdb
+C:\Users\Sergio\Desktop\COURSE INGLES\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\COURSE INGLES\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\COURSE INGLES\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\COURSE INGLES\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\COURSE INGLES\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\COURSE INGLES\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.dll
+C:\Users\Sergio\Desktop\COURSE INGLES\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\refint\Jazani.Domain.dll
+C:\Users\Sergio\Desktop\COURSE INGLES\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.pdb
+C:\Users\Sergio\Desktop\COURSE INGLES\BotcampBackendJazani2023\Jazani.Domain\obj\Debug\net7.0\ref\Jazani.Domain.dll
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\CLASE II\Taller II P1\Jazani.Domain\bin\Debug\net7.0\Jazani.Domain.deps.json
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\CLASE II\Taller II P1\Jazani.Domain\bin\Debug\net7.0\Jazani.Domain.dll
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\CLASE II\Taller II P1\Jazani.Domain\bin\Debug\net7.0\Jazani.Domain.pdb
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\CLASE II\Taller II P1\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\CLASE II\Taller II P1\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\CLASE II\Taller II P1\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\CLASE II\Taller II P1\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\CLASE II\Taller II P1\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\CLASE II\Taller II P1\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.dll
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\CLASE II\Taller II P1\Jazani.Domain\obj\Debug\net7.0\refint\Jazani.Domain.dll
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\CLASE II\Taller II P1\Jazani.Domain\obj\Debug\net7.0\Jazani.Domain.pdb
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\CLASE II\Taller II P1\Jazani.Domain\obj\Debug\net7.0\ref\Jazani.Domain.dll
